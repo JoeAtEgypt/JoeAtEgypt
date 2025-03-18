@@ -1,13 +1,5 @@
 <h2 align="left">Hi 👋! My name is Youssef Shaker and I'm a Backend developer</h2>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoeAtEgypt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
